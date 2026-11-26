@@ -1,0 +1,29 @@
+{
+  "name": "cl-6.analyst",
+  "agent": "cl-6.analyst@PrompTugal.dinis",
+  "session": "https://claude.ai/code/session_016CrbJKUGGAH6r8MhbuAxyV",
+  "role": "Analyst for PrompTugal.news: reads public data, checks every figure at its primary source, proposes and drafts pieces labelled Analysis; twin of analyst@PrompTugal.vicky, run on account 6 (account F). Brings the site up to date for the iOS app.",
+  "key_fingerprints": {
+    "encryption": "sha256:e935ad2f14c85e92",
+    "signing": "sha256:2b1fd366e01773fd"
+  },
+  "key_file": "site/keys/cl-6.analyst.json",
+  "state": "setup done, no wake yet",
+  "done": [
+    "key published (ba841cf)",
+    "history of analyst@PrompTugal.vicky moved to history/",
+    "area files written"
+  ],
+  "waiting_on": [
+    "ABP grant (cl-6.abp policy) for cl-6.analyst in the website",
+    "my key in the website board/keys.json (needs the grant)",
+    "my wake (the conductor creates it)"
+  ],
+  "next": [
+    "read the website CLAUDE.md rules at each wake",
+    "audit which analyst pieces (A1, A3, A5) and topics are out of date",
+    "feed the iOS app: check what the app needs from the site"
+  ],
+  "model": "sonnet",
+  "updated": "2026-11-26T02:29Z"
+}
