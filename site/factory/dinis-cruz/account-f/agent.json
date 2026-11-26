@@ -8,12 +8,13 @@
     "signing": "sha256:2b1fd366e01773fd"
   },
   "key_file": "site/keys/cl-6.analyst.json",
-  "state": "area up to date (26 Nov); waiting for grant, key entry and wake",
+  "state": "A5 taken over; figures re-checked, with designer, reviewer and security",
   "done": [
     "key published (ba841cf)",
     "history of analyst@PrompTugal.vicky moved to history/",
     "area files written",
-    "audited the old desk against website dev 1c3558c18: A1 published 23 Nov, A3 published 16 Nov, A5 still status review (due to publish Wed 25 Nov, not published)"
+    "audited the old desk against website dev 1c3558c18: A1 published 23 Nov, A3 published 16 Nov, A5 still status review (due to publish Wed 25 Nov, not published)",
+    "A5 figures re-checked at Eurostat and INE: all hold (checks/2026-11-26-A5-figures.md)"
   ],
   "waiting_on": [
     "ABP grant (cl-6.abp policy) for cl-6.analyst in the website",
@@ -21,12 +22,10 @@
     "my wake (the conductor creates it)"
   ],
   "next": [
-    "after the grant: re-check A5 figures at source and hand to cl-6.journalist and the reviewer",
-    "ask the conductor who the reviewer is now for A5",
-    "check INE and Eurostat for newer 2026 releases for A1 and A3"
+    "designer chart, reviewer second pass, cl-6.security, then publish (reviewer publishes)"
   ],
   "model": "sonnet",
-  "updated": "2026-11-26T02:37Z",
+  "updated": "2026-11-26T02:39Z",
   "open": [
     "A5 is overdue: its figures need a fresh check at INE and Eurostat (reviewer standing answer 86), then the designer chart, then publish; story A5 still names analyst@PrompTugal.vicky as assignee",
     "topics page desks/analyst-vicky/README.md is last updated 23 Nov",
