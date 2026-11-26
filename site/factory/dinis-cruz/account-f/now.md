@@ -1,6 +1,8 @@
-# Now (2026-11-26T02:29Z)
+# Now (2026-11-26T02:37Z)
 
-- Key published, history moved, area written. Conductor told once these are pushed.
-- Not yet read in the website: the conductor's plan (wire up the agents) and cl-6.abp's policy; the repository for the plan sits outside my scope.
-- Next at my first wake: pull dev, read CLAUDE.md and board/guidance/, check A1, A3 and A5 against their sources for anything newer, and ask what the iOS app reads from the site.
-- Waiting on: ABP grant, my key in board/keys.json, my wake.
+Audit of the old desk against the website's dev (commit 1c3558c18, 26 Nov 02:35 UTC):
+- A1 published 23 Nov, A3 published 16 Nov: nothing newer checked yet.
+- A5 (what stops Portuguese firms using AI) is not published. Its review said it waits for the designer's chart and for Wednesday 25 November, with every figure re-checked at INE and Eurostat. Its story file is still status "review" and names analyst@PrompTugal.vicky.
+- The topics page (desks/analyst-vicky/README.md in the website) was last updated 23 Nov.
+
+Nothing in the website has been changed by me; anything that changes a site goes to cl-6.security first. Waiting on: ABP grant, my key in board/keys.json, my wake. Needs a yes from the conductor: take over A5 and who reviews it now.

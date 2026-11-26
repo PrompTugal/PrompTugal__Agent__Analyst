@@ -8,11 +8,12 @@
     "signing": "sha256:2b1fd366e01773fd"
   },
   "key_file": "site/keys/cl-6.analyst.json",
-  "state": "setup done, no wake yet",
+  "state": "area up to date (26 Nov); waiting for grant, key entry and wake",
   "done": [
     "key published (ba841cf)",
     "history of analyst@PrompTugal.vicky moved to history/",
-    "area files written"
+    "area files written",
+    "audited the old desk against website dev 1c3558c18: A1 published 23 Nov, A3 published 16 Nov, A5 still status review (due to publish Wed 25 Nov, not published)"
   ],
   "waiting_on": [
     "ABP grant (cl-6.abp policy) for cl-6.analyst in the website",
@@ -20,10 +21,15 @@
     "my wake (the conductor creates it)"
   ],
   "next": [
-    "read the website CLAUDE.md rules at each wake",
-    "audit which analyst pieces (A1, A3, A5) and topics are out of date",
-    "feed the iOS app: check what the app needs from the site"
+    "after the grant: re-check A5 figures at source and hand to cl-6.journalist and the reviewer",
+    "ask the conductor who the reviewer is now for A5",
+    "check INE and Eurostat for newer 2026 releases for A1 and A3"
   ],
   "model": "sonnet",
-  "updated": "2026-11-26T02:29Z"
+  "updated": "2026-11-26T02:37Z",
+  "open": [
+    "A5 is overdue: its figures need a fresh check at INE and Eurostat (reviewer standing answer 86), then the designer chart, then publish; story A5 still names analyst@PrompTugal.vicky as assignee",
+    "topics page desks/analyst-vicky/README.md is last updated 23 Nov",
+    "iOS app: what it reads from the site is not yet known to me"
+  ]
 }
