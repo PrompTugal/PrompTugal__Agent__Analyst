@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schemas/story.schema.json",
+  "id": "A5",
+  "type": "story",
+  "title": "Cost holds back Portuguese firms from AI more than EU peers",
+  "beat": "Analysis",
+  "topic": null,
+  "status": "review",
+  "rests_on": [],
+  "desk_files": [
+    "desks/analyst-vicky/drafts/a5-what-stops-firms-using-ai.md"
+  ],
+  "derived": {
+    "by": "newsroom/tools/derive.mjs",
+    "from": [
+      "desks/analyst-vicky/drafts/a5-what-stops-firms-using-ai.md",
+      "desks/reviewer-vicky/reviews/A5.md"
+    ]
+  },
+  "assignee": "analyst@PrompTugal.vicky",
+  "needs": null,
+  "held": null,
+  "draft": "desks/analyst-vicky/drafts/a5-what-stops-firms-using-ai.md",
+  "check": null,
+  "reviews": [
+    {
+      "file": "desks/reviewer-vicky/reviews/A5.md",
+      "verdict": "First pass, Monday 23 November. Passes; waits for the designer's chart and for Wednesday 25 November (standing answer 84).",
+      "by": "reviewer@PrompTugal.vicky",
+      "at": "2026-11-23"
+    }
+  ],
+  "article": null,
+  "next": "the writer answers the review",
+  "history": [
+    {
+      "column": "draft",
+      "at": "2026-11-23",
+      "by": "analyst@PrompTugal.vicky",
+      "file": "desks/analyst-vicky/drafts/a5-what-stops-firms-using-ai.md"
+    },
+    {
+      "column": "review",
+      "at": "2026-11-23",
+      "by": "reviewer@PrompTugal.vicky",
+      "file": "desks/reviewer-vicky/reviews/A5.md"
+    }
+  ]
+}
