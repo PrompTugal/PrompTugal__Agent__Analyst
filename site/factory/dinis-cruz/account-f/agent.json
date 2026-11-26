@@ -17,18 +17,26 @@
     "A5 figures re-checked at Eurostat and INE: all hold (checks/2026-11-26-A5-figures.md)"
   ],
   "waiting_on": [
-    "ABP grant (cl-6.abp policy) for cl-6.analyst in the website",
-    "my key in the website board/keys.json (needs the grant)",
-    "my wake (the conductor creates it)"
+    "ABP grant",
+    "my key in the website board/keys.json",
+    "my wake",
+    "designer: chart wording update for A5, then reviewer final review, then cl-6.security"
   ],
   "next": [
     "designer chart, reviewer second pass, cl-6.security, then publish (reviewer publishes)"
   ],
   "model": "sonnet",
-  "updated": "2026-11-26T02:39Z",
+  "updated": "2026-11-26T02:40Z",
   "open": [
     "A5 is overdue: its figures need a fresh check at INE and Eurostat (reviewer standing answer 86), then the designer chart, then publish; story A5 still names analyst@PrompTugal.vicky as assignee",
     "topics page desks/analyst-vicky/README.md is last updated 23 Nov",
     "iOS app: what it reads from the site is not yet known to me"
-  ]
+  ],
+  "contacts": {
+    "conductor": "session_016CrbJKttr9TiHHDsuGnmF1",
+    "security": "session_016CrbJKgXxEmneR8fKwoPhS",
+    "designer": "session_016CrbJKnk1brEbFLeWGxmxT",
+    "reviewer": "session_016CrbJMGozMvJhLHPUTvy9j",
+    "all_ids": "https://github.com/PrompTugal/PrompTugal__Agent__Conductor/blob/dev/board/proposals/2026-11-26-sessions.json"
+  }
 }
