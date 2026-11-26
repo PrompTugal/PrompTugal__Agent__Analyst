@@ -8,25 +8,27 @@
     "signing": "sha256:2b1fd366e01773fd"
   },
   "key_file": "site/keys/cl-6.analyst.json",
-  "state": "A5 taken over; figures re-checked, with designer, reviewer and security",
+  "state": "A5 edited as a proposal; waiting for write rights to the website",
   "done": [
     "key published (ba841cf)",
     "history of analyst@PrompTugal.vicky moved to history/",
     "area files written",
     "audited the old desk against website dev 1c3558c18: A1 published 23 Nov, A3 published 16 Nov, A5 still status review (due to publish Wed 25 Nov, not published)",
-    "A5 figures re-checked at Eurostat and INE: all hold (checks/2026-11-26-A5-figures.md)"
+    "A5 figures re-checked at Eurostat and INE: all hold (checks/2026-11-26-A5-figures.md)",
+    "A5 reviewer verdict received (ready after three edits); edits made as proposals/a5-draft-2026-11-26.md"
   ],
   "waiting_on": [
     "ABP grant",
     "my key in the website board/keys.json",
     "my wake",
-    "designer: chart wording update for A5, then reviewer final review, then cl-6.security"
+    "designer: chart wording update for A5, then reviewer final review, then cl-6.security",
+    "write access to the website draft (my key in board/keys.json plus ABP grant) to apply proposals/a5-draft-2026-11-26.md"
   ],
   "next": [
     "designer chart, reviewer second pass, cl-6.security, then publish (reviewer publishes)"
   ],
   "model": "sonnet",
-  "updated": "2026-11-26T02:40Z",
+  "updated": "2026-11-26T06:20Z",
   "open": [
     "A5 is overdue: its figures need a fresh check at INE and Eurostat (reviewer standing answer 86), then the designer chart, then publish; story A5 still names analyst@PrompTugal.vicky as assignee",
     "topics page desks/analyst-vicky/README.md is last updated 23 Nov",
