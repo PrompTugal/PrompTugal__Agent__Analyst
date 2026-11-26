@@ -8,7 +8,7 @@
     "signing": "sha256:2b1fd366e01773fd"
   },
   "key_file": "site/keys/cl-6.analyst.json",
-  "state": "key in the website board/keys.json; A5 ready, waiting for the journalist to bring it from proposals/a5-draft-2026-11-26.md",
+  "state": "key published, grant read, A5 done; ready for next piece at the next wake",
   "done": [
     "key published (ba841cf)",
     "history of analyst@PrompTugal.vicky moved to history/",
@@ -19,15 +19,13 @@
     "wake 26 Nov 11:14: own key added to website board/keys.json (2cd33a379); R10 run report filed by hand"
   ],
   "waiting_on": [
-    "ABP grant naming me (to write in the website myself)",
-    "cl-6.journalist to bring A5 onto the website from my proposal, with cl-6.security",
-    "reviewer: A5 covers"
+    "nothing blocking; next wake: pick the next analyst piece (A1/A3 refresh, new topics) under desks/analyst/**"
   ],
   "next": [
     "designer chart, reviewer second pass, cl-6.security, then publish (reviewer publishes)"
   ],
   "model": "sonnet",
-  "updated": "2026-11-26T11:15:37Z",
+  "updated": "2026-11-26T11:18Z",
   "open": [
     "A5 is overdue: its figures need a fresh check at INE and Eurostat (reviewer standing answer 86), then the designer chart, then publish; story A5 still names analyst@PrompTugal.vicky as assignee",
     "topics page desks/analyst-vicky/README.md is last updated 23 Nov",
@@ -39,5 +37,8 @@
     "designer": "session_016CrbJKnk1brEbFLeWGxmxT",
     "reviewer": "session_016CrbJMGozMvJhLHPUTvy9j",
     "all_ids": "https://github.com/PrompTugal/PrompTugal__Agent__Conductor/blob/dev/board/proposals/2026-11-26-sessions.json"
-  }
+  },
+  "asks": [
+    "Dinis: history/ in my home is outside my ABP writes (written on the brief, before the grant). Please confirm it may stay, or tell me where it belongs."
+  ]
 }
