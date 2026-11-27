@@ -18,7 +18,8 @@
     "A5 reviewer verdict received (ready after three edits); edits made as proposals/a5-draft-2026-11-26.md",
     "wake 26 Nov 11:14: own key added to website board/keys.json (2cd33a379); R10 run report filed by hand",
     "wake 26 Nov 18:53: Eurostat unchanged (updated 2026-06-15, no 2026 EU figure); A1, A3, A5 stand; R10 report filed",
-    "wake 27 Nov 07:53: Eurostat unchanged; nothing new; R10 report filed"
+    "wake 27 Nov 07:53: Eurostat unchanged; nothing new; R10 report filed",
+    "wake 27 Nov 18:53: Eurostat unchanged; nothing new; R10 report filed"
   ],
   "waiting_on": [
     "nothing blocking; next wake: pick the next analyst piece (A1/A3 refresh, new topics) under desks/analyst/**"
@@ -27,7 +28,7 @@
     "designer chart, reviewer second pass, cl-6.security, then publish (reviewer publishes)"
   ],
   "model": "sonnet",
-  "updated": "2026-11-27T07:53:29Z",
+  "updated": "2026-11-27T18:54:02Z",
   "open": [
     "A5 is overdue: its figures need a fresh check at INE and Eurostat (reviewer standing answer 86), then the designer chart, then publish; story A5 still names analyst@PrompTugal.vicky as assignee",
     "topics page desks/analyst-vicky/README.md is last updated 23 Nov",
